@@ -4,7 +4,7 @@
 Practicing devops best practices for a simple hello-world python application
 
 To start create a virtual environment:
-`source ~./.venv/bin/activate`
+`source ~/.venv/bin/activate`
 
 ## Create a scaffold
 - `requirements.txt`: packages
