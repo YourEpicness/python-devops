@@ -1,4 +1,6 @@
 # Python for DevOps
+[![Python application](https://github.com/YourEpicness/python-devops/actions/workflows/python-app.yml/badge.svg)](https://github.com/YourEpicness/python-devops/actions/workflows/python-app.yml)
+
 Practicing devops best practices for a simple hello-world python application
 
 To start create a virtual environment:
